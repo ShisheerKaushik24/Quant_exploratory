@@ -4,9 +4,9 @@
 
 <!-- MarkdownTOC depth=4 -->
 
-- [INTRODUCTION](#introduction)
-    - [Theory of Computation](#introduction-to-computation-theory)
-- [PREREQUISITES](#prerequisite)
+- [Quantum Mechanics](#Quantum-Mechanics)
+    - [Squeezed Sates](codebook/Squeezed-states-of-harmonic-oscillator.ipynb)
+- [Quantum Machine Learning](codebook/)
     - [Linear Algebra](#basics-what-classical-computing)
     - [Probability](#basics-what-quantum-computing)
     - [Complex Numbers](#basics-what-quantum-mechanics)
