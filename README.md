@@ -6,7 +6,8 @@
 
 - [Quantum Mechanics](#Quantum-Mechanics)
     - [Squeezed Sates](codebook/Squeezed-states-of-harmonic-oscillator.ipynb)
-- [Quantum Machine Learning](codebook/)
+    - [Quantum Monte Carlo](codebook/Quantum-Monte-Carlo-Trajectories.ipynb)
+- [Quantum Machine Learning](quantum-machine-learning)
     - [Linear Algebra](#basics-what-classical-computing)
     - [Probability](#basics-what-quantum-computing)
     - [Complex Numbers](#basics-what-quantum-mechanics)
