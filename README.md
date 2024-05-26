@@ -1,6 +1,21 @@
 # Resources yet to explore:
 
-## Plane Map:
+## Plan Map:
+### QpiAI:
+### QML survey:
+- [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
+    - [Pytorch Tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html)
+- [TorchQuantum](https://torchquantum.readthedocs.io/en/latest/api_torchquantum.html)
+- [sQUlearn](https://squlearn.github.io/user_guide/user_guide_index.html)
+- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
+
+### Web Api & Intgration:
+- [JavaScript RoadMap](https://roadmap.sh/javascript)
+- [Django](https://www.youtube.com/watch?v=jBzwzrDvZ18)
+- [FastApi](https://www.youtube.com/watch?v=7t2alSnE2-I)
+- [Quantum.js](https://quantumjavascript.app)
+- [Graph.js](https://observablehq.com/@d3/force-directed-graph-component)
+
 ### Competative Programming:
 #### LeetCodes:
 - [1. Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
@@ -9,7 +24,6 @@
 
 ### Software Tools:
 - [Git & Github](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-
 
 ### Intelligence of Learning:
 - [Session 1](https://www.youtube.com/watch?v=Vc5fIuYk3Bw&list=PLRqwX-V7Uu6bePNiZLnglXUp2LXIjlCdb)
