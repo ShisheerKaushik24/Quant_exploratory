@@ -24,7 +24,11 @@
     - [Pytorch Tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html)
 - [TorchQuantum](https://torchquantum.readthedocs.io/en/latest/api_torchquantum.html)
 - [sQUlearn](https://squlearn.github.io/user_guide/user_guide_index.html)
-- [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
+- [Pennylane](https://docs.pennylane.ai/en/stable/)
+- [Qiskit](https://docs.quantum.ibm.com)
+- [Optional](#optional) 
+    - [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
+    - [Tensorflow-quantum](https://www.tensorflow.org/quantum)
 
 ### Web Api & Intgration:
 - [JavaScript RoadMap](https://roadmap.sh/javascript)
@@ -35,9 +39,11 @@
 
 ### Competative Programming:
 #### LeetCodes:
+- [0. DSA](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 - [1. Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
 - [2. Cheng](https://github.com/ShisheerKaushik24/leetcode)
 - [3. Neetcode](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
+
 
 ### Software Tools:
 - [Git & Github](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
