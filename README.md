@@ -1,8 +1,26 @@
 # Resources yet to explore:
 
-## Table of Contents
+## Plane Map:
+### Competative Programming:
+#### LeetCodes:
+- [1. Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
+- [2. Cheng](https://github.com/ShisheerKaushik24/leetcode)
+- [3. Neetcode](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 
-<!-- MarkdownTOC depth=4 -->
+### Software Tools:
+- [Git & Github](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+
+### Intelligence of Learning:
+- [Session 1](https://www.youtube.com/watch?v=Vc5fIuYk3Bw&list=PLRqwX-V7Uu6bePNiZLnglXUp2LXIjlCdb)
+- [Session 2](https://www.youtube.com/watch?v=c8gZguZWYik&list=PLRqwX-V7Uu6bw4n02JP28QDuUdNi3EXxJ)
+- [Session 3](https://www.youtube.com/watch?v=LvIa0-ZKCrc&list=PLRqwX-V7Uu6bCN8LKrcMa6zF4FPtXyXYj)
+- [Session 4](https://www.youtube.com/watch?v=XJ7HLz9VYz0&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
+- [Session 5](https://www.youtube.com/watch?v=pqY_Tn2SIVA&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
+- [Session 6](https://www.youtube.com/watch?v=Qt3ZABW5lD0&list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
+- [Session 7](https://www.youtube.com/watch?v=y59-frfKR58&list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L)
+
+## Table of Contents
 
 - [Python Libraries](#python)
     - [Pendulum](https://pendulum.eustace.io)<br>
