@@ -21,7 +21,7 @@
 ### QpiAI:
 ### QML survey:
 - [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
-    - [Pytorch Tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html)
+    - [Pytorch Tutorial](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 - [TorchQuantum](https://torchquantum.readthedocs.io/en/latest/api_torchquantum.html)
 - [sQUlearn](https://squlearn.github.io/user_guide/user_guide_index.html)
 - [Pennylane](https://docs.pennylane.ai/en/stable/)
@@ -67,8 +67,11 @@
     - [icecream](https://github.com/gruns/icecream)<br>
     To debug your code.
     - [Rich](https://rich.readthedocs.io/en/stable/introduction.html)<br>Is a Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code.
+    - [Networx](https://www.youtube.com/playlist?list=PLGZqdNxqKzfYXTwYAZIlmjnQmrytCSR1J)
     - [FastApi](https://fastapi.tiangolo.com)<br>
       FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints.
+
+  
 - [Quantum Mechanics](#Quantum-Mechanics)
     - [Squeezed Sates](codebook/Squeezed-states-of-harmonic-oscillator.ipynb)
     - [Quantum Monte Carlo](codebook/Quantum-Monte-Carlo-Trajectories.ipynb)
