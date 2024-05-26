@@ -2,6 +2,21 @@
 
 [Tasks to complete](https://docs.google.com/document/d/1wgLdFsmJV-NGep4WWLTPE_fS8diQRxxI0Lc2r7fEjuE/edit)
 
+#### Time Table:
+
+| Time | Tasks |
+|:-------------|:--------------:|
+| 8:00 - 9:00 | Get Ready |
+| 9:00 - 10:00  | Breakfast + Walk to Office |
+| 10:00 - 2:00  | Work on QpiAI assingments |
+| 2:00 - 3:00 | Lunch |
+| 3:00 - 5:00 |  Work on QpiAI assingments | 
+| 5:00 - 7:00 | Learn Javascript + WebAPI's |
+| 7:00 - 8:00 | Leisure |
+| 8:00 - 8:45 | Dinner |
+| 9:00 - 12:00 | Leet code + DSA |
+| 12:00 - 8:00 | Sleep |
+
 ## Plan Map:
 ### QpiAI:
 ### QML survey:
