@@ -1,5 +1,7 @@
 # Resources yet to explore:
 
+[Tasks to complete](https://docs.google.com/document/d/1wgLdFsmJV-NGep4WWLTPE_fS8diQRxxI0Lc2r7fEjuE/edit)
+
 ## Plan Map:
 ### QpiAI:
 ### QML survey:
