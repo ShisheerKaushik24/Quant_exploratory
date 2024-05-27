@@ -25,7 +25,7 @@
 - [TorchQuantum](https://torchquantum.readthedocs.io/en/latest/api_torchquantum.html)
 - [sQUlearn](https://squlearn.github.io/user_guide/user_guide_index.html)
 - [Pennylane](https://docs.pennylane.ai/en/stable/)
-- [Qiskit](https://docs.quantum.ibm.com)
+- [Qiskit](https://github.com/qiskit-community/qiskit-machine-learning/tree/main)
 - [Optional](#optional) 
     - [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
     - [Tensorflow-quantum](https://www.tensorflow.org/quantum)
