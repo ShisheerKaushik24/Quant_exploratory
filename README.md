@@ -17,7 +17,14 @@
 | 9:00 - 12:00 | Leet code + DSA |
 | 12:00 - 8:00 | Sleep |
 
-## Plan Map:
+## RoadMap to FullStack Development:
+
+- [ Docker ](https://www.youtube.com/watch?v=RqTEHSBrYFw)
+- [ Node.js ](https://www.youtube.com/watch?v=f2EqECiTBL8)
+- [ JavaScript ](https://www.youtube.com/watch?v=EerdGm-ehJQ)
+- [ Mern Stack ](https://www.youtube.com/watch?v=CvCiNeLnZ00)
+
+
 ### QpiAI:
 ### QML survey:
 - [PyTorch](https://pytorch.org/tutorials/beginner/basics/intro.html)
