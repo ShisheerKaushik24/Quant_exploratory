@@ -23,6 +23,7 @@
 - [ Node.js ](https://www.youtube.com/watch?v=f2EqECiTBL8)
 - [ JavaScript ](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 - [ Mern Stack ](https://www.youtube.com/watch?v=CvCiNeLnZ00)
+- [ Go Lang ](https://www.youtube.com/watch?v=un6ZyFkqFKo&t=197s)
 
 
 ### QpiAI:
