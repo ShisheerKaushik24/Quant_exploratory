@@ -24,6 +24,8 @@
 - [ JavaScript ](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 - [ Mern Stack ](https://www.youtube.com/watch?v=CvCiNeLnZ00)
 - [ Go Lang ](https://www.youtube.com/watch?v=un6ZyFkqFKo&t=197s)
+- [ Generative AI](https://www.youtube.com/playlist?list=PLi0fa6n7ZYyZ_9rQl84UKMZeNCCuEVa6m)
+- [ Dev-ops Bootcamp]()
 
 
 ### QpiAI:
