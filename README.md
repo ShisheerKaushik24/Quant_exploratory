@@ -1,21 +1,36 @@
 # Resources yet to explore:
 
 [Tasks to complete](https://docs.google.com/document/d/1wgLdFsmJV-NGep4WWLTPE_fS8diQRxxI0Lc2r7fEjuE/edit)
+[ RoadMap to ML ](https://docs.google.com/document/d/1XHj7o-Xj7vpUTLGJEfZAvjC1gEQpyLF3jCBpBoZaB5E/edit)
+[ RoadMap to HFT ](https://docs.google.com/document/d/1GD4WeGO_dx3kG3RK8QQFvgUUQXjGBADiVYsAHHByJas/edit?pli=1&addon_store)
 
 #### Time Table:
 
 | Time | Tasks |
 |:-------------|:--------------:|
+| 6:00 - 8:00 | DSA + CP |
 | 8:00 - 9:00 | Get Ready |
-| 9:00 - 10:00  | Breakfast + Walk to Office |
-| 10:00 - 2:00  | Work on QpiAI assingments |
+| 9:00 - 11:00  | ML-ops { course era } |
+| 11:00 - 2:00  | Work on QpiAI assingments |
 | 2:00 - 3:00 | Lunch |
 | 3:00 - 5:00 |  Work on QpiAI assingments | 
-| 5:00 - 7:00 | Learn Javascript + WebAPI's |
+| 5:00 - 7:00 | Learn Software Dev + Python SDK's |
 | 7:00 - 8:00 | Leisure |
 | 8:00 - 8:45 | Dinner |
-| 9:00 - 12:00 | Leet code + DSA |
-| 12:00 - 8:00 | Sleep |
+| 9:00 - 10:30 | Algo-Trade |
+| 11:30 - 12:00 | Forex Trade |
+| 12:00 - 6:00 | Sleep |
+
+
+## Follow-up:
+- [ Mlops ](https://www.coursera.org/learn/python-mlops-duke/lecture/aZDeH/meet-your-course-instructor-alfredo-deza)
+- [ Finance Market](https://quantra.quantinsti.com/startCourseDetails?cid=124&section_no=1&unit_no=1&course_type=free&unit_type=Video)
+- [ Dev-ops ](https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&feature=shared)
+- [ DSA ](https://youtu.be/8hly31xKli0?si=1BjSwOXk5jjNZQWQ)
+- [ Competative program ](#competative program)
+- [ Algo-Trade ](https://www.youtube.com/playlist?list=PL-yBsBIJqqBn6oMMgLjvhCTNT-zLXYmoW)
+- [ Forex Trade ](https://www.youtube.com/playlist?list=PLK3V_1jIohqL_RKp-cD8cKrIUQcYFNc9a)
+
 
 ## RoadMap to Quant Development:
 - [C++ {FreedCodecamp}](https://youtu.be/8jLOx1hD3_o?si=W1Sh4b4Zc6JceGg9)
@@ -24,6 +39,15 @@
 - [Algorithmic Trading {FreeCodecamp}](https://youtu.be/xfzGZB4HhEE?si=j5Srj2Vq9tki_dcw)
 - [Algorithmic trading with python {FreeCodecamp}](https://youtu.be/GDMkkmkJigw?si=09GQhaUGwq8QljCi)
 - [ML in Algorithm Trading {FreeCodecamp}](https://youtu.be/9Y3yaoi9rUQ?si=SANq23RDsy2d1nW0)
+
+
+### Competative Programming:
+#### LeetCodes:
+- [0. DSA](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+- [1. Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
+- [2. Cheng](https://github.com/ShisheerKaushik24/leetcode)
+- [3. Neetcode](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
+
 
 ## RoadMap to FullStack Development:
 
@@ -54,13 +78,6 @@
 - [FastApi](https://www.youtube.com/watch?v=7t2alSnE2-I)
 - [Quantum.js](https://quantumjavascript.app)
 - [Graph.js](https://observablehq.com/@d3/force-directed-graph-component)
-
-### Competative Programming:
-#### LeetCodes:
-- [0. DSA](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-- [1. Greg Hogg](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
-- [2. Cheng](https://github.com/ShisheerKaushik24/leetcode)
-- [3. Neetcode](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 
 
 ### Software Tools:
