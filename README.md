@@ -39,7 +39,7 @@
 - [Algorithmic Trading {FreeCodecamp}](https://youtu.be/xfzGZB4HhEE?si=j5Srj2Vq9tki_dcw)
 - [Algorithmic trading with python {FreeCodecamp}](https://youtu.be/GDMkkmkJigw?si=09GQhaUGwq8QljCi)
 - [ML in Algorithm Trading {FreeCodecamp}](https://youtu.be/9Y3yaoi9rUQ?si=SANq23RDsy2d1nW0)
-
+- [ Cuda Prog ](https://youtu.be/nOxKexn3iBo?si=-DzB7o4S8M2pV44g)
 
 ### Competative Programming:
 #### LeetCodes:
