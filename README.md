@@ -1,8 +1,8 @@
 # Resources yet to explore:
 
-[Tasks to complete](https://docs.google.com/document/d/1wgLdFsmJV-NGep4WWLTPE_fS8diQRxxI0Lc2r7fEjuE/edit)
-[ RoadMap to ML ](https://docs.google.com/document/d/1XHj7o-Xj7vpUTLGJEfZAvjC1gEQpyLF3jCBpBoZaB5E/edit)
-[ RoadMap to HFT ](https://docs.google.com/document/d/1GD4WeGO_dx3kG3RK8QQFvgUUQXjGBADiVYsAHHByJas/edit?pli=1&addon_store)
+[Tasks to complete](https://docs.google.com/document/d/1wgLdFsmJV-NGep4WWLTPE_fS8diQRxxI0Lc2r7fEjuE/edit) | 
+[ RoadMap to ML ](https://docs.google.com/document/d/1XHj7o-Xj7vpUTLGJEfZAvjC1gEQpyLF3jCBpBoZaB5E/edit) |
+[ RoadMap to HFT ](https://docs.google.com/document/d/1GD4WeGO_dx3kG3RK8QQFvgUUQXjGBADiVYsAHHByJas/edit?pli=1&addon_store) |
 
 #### Time Table:
 
