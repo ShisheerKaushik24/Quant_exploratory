@@ -20,6 +20,7 @@
 ## RoadMap to Quant Development:
 - [C++ {FreedCodecamp}](https://youtu.be/8jLOx1hD3_o?si=W1Sh4b4Zc6JceGg9)
 - [C++ for Algo-trade](https://www.youtube.com/playlist?list=PLqbnmipMcdzdqstdLYsMVQBhLqem7ufxj)
+- [Quantra {Financial Model}](https://quantra.quantinsti.com/startCourseDetails?cid=124&section_no=1&unit_no=1&course_type=free&unit_type=Video)
 - [Algorithmic Trading {FreeCodecamp}](https://youtu.be/xfzGZB4HhEE?si=j5Srj2Vq9tki_dcw)
 - [Algorithmic trading with python {FreeCodecamp}](https://youtu.be/GDMkkmkJigw?si=09GQhaUGwq8QljCi)
 - [ML in Algorithm Trading {FreeCodecamp}](https://youtu.be/9Y3yaoi9rUQ?si=SANq23RDsy2d1nW0)
