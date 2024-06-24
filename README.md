@@ -17,6 +17,13 @@
 | 9:00 - 12:00 | Leet code + DSA |
 | 12:00 - 8:00 | Sleep |
 
+## RoadMap to Quant Development:
+- [C++ {FreedCodecamp}](https://youtu.be/8jLOx1hD3_o?si=W1Sh4b4Zc6JceGg9)
+- [C++ for Algo-trade](https://www.youtube.com/playlist?list=PLqbnmipMcdzdqstdLYsMVQBhLqem7ufxj)
+- [Algorithmic Trading {FreeCodecamp}](https://youtu.be/xfzGZB4HhEE?si=j5Srj2Vq9tki_dcw)
+- [Algorithmic trading with python {FreeCodecamp}](https://youtu.be/GDMkkmkJigw?si=09GQhaUGwq8QljCi)
+- [ML in Algorithm Trading {FreeCodecamp}](https://youtu.be/9Y3yaoi9rUQ?si=SANq23RDsy2d1nW0)
+
 ## RoadMap to FullStack Development:
 
 - [ Docker ](https://www.youtube.com/watch?v=RqTEHSBrYFw)
