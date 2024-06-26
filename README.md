@@ -17,8 +17,8 @@
 | 5:00 - 7:00 | Learn Software Dev + Python SDK's |
 | 7:00 - 8:00 | Leisure |
 | 8:00 - 8:45 | Dinner |
-| 9:00 - 10:30 | Algo-Trade |
-| 11:30 - 12:00 | Forex Trade |
+| 9:00 - 10:30 | Stock Plaaylist |
+| 11:30 - 12:00 | Algo-Trade |
 | 12:00 - 6:00 | Sleep |
 
 
@@ -29,7 +29,8 @@
 - [ DSA ](https://youtu.be/8hly31xKli0?si=1BjSwOXk5jjNZQWQ)
 - [ Competative program ](#competative program)
 - [ Algo-Trade ](https://www.youtube.com/playlist?list=PL-yBsBIJqqBn6oMMgLjvhCTNT-zLXYmoW)
-- [ Forex Trade ](https://www.youtube.com/playlist?list=PLK3V_1jIohqL_RKp-cD8cKrIUQcYFNc9a)
+- [ Stock Playlist ](https://youtube.com/playlist?list=PLKLPWIpGjI0OI7w6KXpor4TAni5B2tL6a&si=NzRH7D3q24nkPt-G)
+- [ Forex Trade { optional } ](https://www.youtube.com/playlist?list=PLK3V_1jIohqL_RKp-cD8cKrIUQcYFNc9a)
 
 
 ## RoadMap to Quant Development:
