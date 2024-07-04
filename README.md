@@ -17,7 +17,7 @@
 | 5:00 - 7:00 | Learn Software Dev + Python SDK's |
 | 7:00 - 8:00 | Leisure |
 | 8:00 - 8:45 | Dinner |
-| 9:00 - 10:30 | Stock Plaaylist |
+| 9:00 - 10:30 | C++ |
 | 11:30 - 12:00 | Algo-Trade |
 | 12:00 - 6:00 | Sleep |
 
