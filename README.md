@@ -42,6 +42,13 @@
 - [ML in Algorithm Trading {FreeCodecamp}](https://youtu.be/9Y3yaoi9rUQ?si=SANq23RDsy2d1nW0)
 - [ Cuda Prog ](https://youtu.be/nOxKexn3iBo?si=-DzB7o4S8M2pV44g)
 
+## RoadMap to GenAI/Mlops/AIops Development:
+- [Generative AI for Beginers {Microsoft}](https://microsoft.github.io/generative-ai-for-beginners/#/)
+- [AI for Beginers {Microsoft}](https://microsoft.github.io/AI-For-Beginners/lessons/3-NeuralNetworks/03-Perceptron/README)
+- [Neural Networks {Andrw Karpathy}](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  
+  
 ### Competative Programming:
 #### LeetCodes:
 - [0. DSA](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
@@ -59,7 +66,6 @@
 - [ Go Lang ](https://www.youtube.com/watch?v=un6ZyFkqFKo&t=197s)
 - [ Generative AI](https://www.youtube.com/playlist?list=PLi0fa6n7ZYyZ_9rQl84UKMZeNCCuEVa6m)
 - [ Dev-ops Bootcamp]()
-
 
 ### QpiAI:
 ### QML survey:
