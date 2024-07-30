@@ -10,15 +10,15 @@
 |:-------------|:--------------:|
 | 6:00 - 8:00 | DSA + CP |
 | 8:00 - 9:00 | Get Ready |
-| 9:00 - 11:00  | ML-ops { course era } |
-| 11:00 - 2:00  | Work on QpiAI assingments |
-| 2:00 - 3:00 | Lunch |
-| 3:00 - 5:00 |  Work on QpiAI assingments | 
-| 5:00 - 7:00 | Learn Software Dev + Python SDK's |
-| 7:00 - 8:00 | Leisure |
-| 8:00 - 8:45 | Dinner |
-| 9:00 - 10:30 | C++ |
-| 11:30 - 12:00 | Algo-Trade |
+| 9:00 - 11:00  | Dev-Ops + ML-ops { course era } |
+| 11:00 - 1:00  | Work on Thesis Project |
+| 1:00 - 2:00 | Lunch |
+| 2:00 - 4:00 | Attend the classes | 
+| 4:00 - 4:30 | Leisure |
+| 4:30 - 8:00 | Learn Software Dev + Python SDK's + Work on Internship |
+| 8:00 - 9:30 | C++ |
+| 9:30 - 10:30 | Dinner + Walk |
+| 10:30 - 12:00 | Algo-Trade {NPTEl} |
 | 12:00 - 6:00 | Sleep |
 
 
