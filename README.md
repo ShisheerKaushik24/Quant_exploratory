@@ -8,15 +8,15 @@
 
 | Time | Tasks |
 |:-------------|:--------------:|
-| 6:00 - 8:00 | DSA + CP |
-| 8:00 - 9:00 | Get Ready |
-| 9:00 - 11:00  | Dev-Ops + ML-ops { course era } |
+| 6:00 - 7:30 | Badminton |
+| 7:30 - 8:30 | Get Ready |
+| 8:30 - 11:00  | Dev-Ops + ML-ops { course era } |
 | 11:00 - 1:00  | Work on Thesis Project |
 | 1:00 - 2:00 | Lunch |
 | 2:00 - 4:00 | Attend the classes | 
 | 4:00 - 4:30 | Leisure |
-| 4:30 - 8:00 | Learn Software Dev + Python SDK's + Work on Internship |
-| 8:00 - 9:30 | C++ |
+| 4:30 - 8:00 | Learn Software Dev + Python SDK's + Work on Internship + DSA + CP |
+| 8:00 - 9:30 | C++ + HFT|
 | 9:30 - 10:30 | Dinner + Walk |
 | 10:30 - 12:00 | Algo-Trade {NPTEl} |
 | 12:00 - 6:00 | Sleep |
